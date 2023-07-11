@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review Templete
 - 코더 : 손정민
-- 리뷰어 : 본인의 이름을 작성하세요.
+- 리뷰어 : 김성진
 
 
 # PRT(PeerReviewTemplate) 
