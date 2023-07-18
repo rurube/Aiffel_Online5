@@ -5,10 +5,10 @@
 ## Contents
 
 - on-boarding_quest
-- Exploration1
-- Exploration2
-- Exploration3
-- Exploration4
-- Exploration5
-- Exploration6 <span style='color:gray'>last modified at 2023-07-18, reviewer 황인준</span>
+- Exploration1 <span style='color:gray'>2023, reviewer </span>
+- Exploration2 <span style='color:gray'>2023, reviewer </span>
+- Exploration3 <span style='color:gray'>2023, reviewer </span>
+- Exploration4 <span style='color:gray'>2023, reviewer </span>
+- Exploration5  <span style='color:gray'>2023, reviewer </span>
+- Exploration6 <span style='color:gray'>2023-07-18, reviewer 황인준</span>
 
