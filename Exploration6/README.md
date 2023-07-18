@@ -1,3 +1,31 @@
-# Aiffel Online 5 Quest Repository
+# AIFFEL Campus Online 5th Code Peer Review
+- 코더 : 손정민
+- 리뷰어 : 황인준
 
-# add a new comment
+
+# PRT(PeerReviewTemplate) 
+각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
+
+- [O] 코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
+  코드가 정상적으로 동작해서 실제 headline과 비교했을때 문법의 이슈가 있었지만, 겹치는 키워드 수가 많았고 예측 요약(summa)와 비교해봐도 겹치는 단어가 많음을 확인 할 수 있다.
+- [O] 주석을 보고 작성자의 코드가 이해되었나요?
+  주석, 마크다운을 활용하여 가독성을 높였다
+- [O] 코드가 에러를 유발할 가능성이 없나요?
+  에러가 발생하지 않았다
+- [O] 코드 작성자가 코드를 제대로 이해하고 작성했나요?
+  작성자가 이해를 바탕으로 코드를 작성했고, 추후에 어떤식으로 성능을 높여야 할지도 생각하고 있는 바가 있었다.
+  단어 빈도수 선택에 대해서 임의로 선택을 했지만 다양한 숫자들을 넣어서 추세를 살펴보고 선택했다고 합니다.
+- [O] 코드가 간결한가요?
+  step 5에서 summa를 이용해서 추출적 요약해보기를 진행할때 비교하기 쉽게 for문을 이용하여 간결하게 나타냈다.
+  ```python
+  for i in range(0,50):
+    text = data['text'][i]
+    summary = data['headlines'][i]
+    print(f'원문: {text}')
+    print(f'실제 요약: {summary}')
+    print(f'예측 요약(summa): {summarize(text, ratio=0.4)}\n')
+  ```
+
+
+# 참고 링크 및 코드 개선
+embedding layer에서 word2vec을 사용하면 더 좋은 성능을 가지는 모델을 만들수 있을것 같습니다.
