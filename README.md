@@ -12,5 +12,6 @@
 - Exploration5  <span style='color:gray'>2023-07-17, reviewer 박혜원</span>
 - Exploration6 <span style='color:gray'>2023-07-18, reviewer 황인준</span>
 - Exploration7 <span style='color:gray'>2023-07-19, reviewer 김연수</span>
+- Exploration8 <span style='color:gray'>2023-07-20, reviewer</span>
 
 
