@@ -13,5 +13,10 @@
 - Exploration6 <span style='color:gray'>2023-07-18, reviewer 황인준</span>
 - Exploration7 <span style='color:gray'>2023-07-19, reviewer 김연수</span>
 - Exploration8 <span style='color:gray'>2023-07-20, reviewer 이태훈</span>
+- Going-deeper01 <span style='color:gray'>2023-08-16, reviewer 김성진</span>
+- Going-deeper02 <span style='color:gray'>2023-08-18, reviewer 김민식</span>
+- Going-deeper03 <span style='color:gray'>2023-08-22, reviewer 김민식</span>
+- Going-deeper04 <span style='color:gray'>2023-08-24, reviewer 최철웅</span>
+
 
 
