@@ -17,7 +17,7 @@
 - Going-deeper02 <span style='color:gray'>2023-08-18, reviewer 김민식</span>
 - Going-deeper03 <span style='color:gray'>2023-08-22, reviewer 김민식</span>
 - Going-deeper04 <span style='color:gray'>2023-08-24, reviewer 최철웅</span>
-- Going-deeper05 <span style='color:gray'>2023-08-28, reviewer </span>
+- Going-deeper05 <span style='color:gray'>2023-08-28, reviewer 최철웅</span>
 - Going-deeper06 <span style='color:gray'>2023-09-11, reviewer 윤상현</span>
 
 
